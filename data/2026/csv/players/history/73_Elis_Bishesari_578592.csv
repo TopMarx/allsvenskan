@@ -1,0 +1,12 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+73,6,1,2026-04-06T12:00:00Z,False,5,IF Elfsborg,2,0,False,90,0,0,0,2,0,0,0,0,0,3,0,0,0,0,3,2,55,11099,0,0,0
+73,9,2,2026-04-11T13:00:00Z,True,6,BK Häcken,0,2,False,90,0,0,0,2,0,0,0,0,0,5,0,0,0,0,11,3,55,11271,88,329,-241
+73,19,3,2026-04-18T13:00:00Z,False,15,Halmstads BK,1,1,False,90,0,0,0,1,0,0,0,0,0,2,0,0,0,0,9,3,55,10967,80,461,-381
+73,31,4,2026-04-23T17:00:00Z,False,10,Kalmar FF,1,1,False,90,0,0,0,1,0,0,0,0,0,6,0,0,0,1,13,5,55,10531,34,505,-471
+73,35,5,2026-04-26T14:30:00Z,True,30,GAIS,2,2,False,90,0,0,0,2,0,0,0,0,0,1,0,0,0,0,5,1,55,10194,45,423,-378
+73,47,6,2026-05-04T17:00:00Z,False,7,Djurgården,6,0,False,90,0,0,0,6,0,0,0,0,0,5,0,0,0,0,8,-1,55,9456,16,768,-752
+73,55,7,2026-05-09T13:00:00Z,True,2,Hammarby,0,1,False,90,0,0,0,1,0,0,0,0,0,3,0,0,0,0,8,3,54,8005,10,1472,-1462
+73,64,8,2026-05-19T13:00:00Z,False,25,Örgryte IS,2,3,False,90,0,0,0,2,0,0,0,0,0,0,0,0,0,1,9,1,54,7140,15,594,-579
+73,72,9,2026-05-25T17:00:00Z,True,14,Mjällby AIF,1,1,False,90,0,0,0,1,0,0,0,0,0,4,0,0,0,0,10,4,53,7215,34,301,-267
+73,80,10,2026-05-31T12:00:00Z,False,29,Västerås SK,4,5,False,90,0,0,0,4,0,0,0,0,0,2,0,0,0,0,14,0,53,7132,51,124,-73
+73,86,11,2026-07-05T12:00:00Z,True,12,AIK,1,2,False,90,0,0,0,2,0,0,0,0,0,0,0,0,0,0,9,1,53,7065,33,136,-103

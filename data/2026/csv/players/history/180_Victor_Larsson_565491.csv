@@ -1,0 +1,12 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+180,4,1,2026-04-05T12:00:00Z,True,29,Västerås SK,0,1,False,90,0,0,0,1,0,0,0,0,0,0,0,0,0,1,7,2,45,946,0,0,0
+180,12,2,2026-04-12T12:00:00Z,False,7,Djurgården,3,2,False,86,0,0,0,3,0,0,0,0,0,0,0,0,0,0,7,1,45,945,15,49,-34
+180,23,3,2026-04-19T12:00:00Z,False,12,AIK,1,0,False,75,0,0,0,1,0,0,0,0,0,0,0,0,0,1,9,2,45,903,4,52,-48
+180,31,4,2026-04-23T17:00:00Z,True,4,IFK Göteborg,1,1,False,90,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6,2,45,854,8,59,-51
+180,38,5,2026-04-27T17:00:00Z,True,5,IF Elfsborg,2,1,False,78,0,0,0,1,0,0,0,0,0,0,0,0,0,1,7,2,45,819,0,37,-37
+180,42,6,2026-05-02T13:00:00Z,False,3,IK Sirius,3,2,False,90,0,0,0,3,0,0,0,1,0,0,0,1,0,0,10,1,44,781,4,42,-38
+180,54,7,2026-05-10T12:00:00Z,True,15,Halmstads BK,2,0,False,90,0,0,1,0,0,0,0,0,0,0,0,0,0,1,9,6,44,758,29,54,-25
+180,59,8,2026-05-17T12:00:00Z,False,21,BP,1,0,False,76,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,44,666,28,79,-51
+180,67,9,2026-05-23T13:00:00Z,True,16,Degerfors IF,2,1,False,90,0,0,0,1,0,0,0,0,0,0,0,1,0,0,13,3,44,716,34,32,2
+180,75,10,2026-05-30T13:00:00Z,False,30,GAIS,3,0,False,70,0,0,0,1,0,0,0,0,0,0,0,0,0,1,8,2,44,680,3,33,-30
+180,87,11,2026-07-05T12:00:00Z,True,25,Örgryte IS,3,0,False,90,0,0,1,0,0,0,0,0,0,0,0,2,0,0,16,8,43,673,14,28,-14

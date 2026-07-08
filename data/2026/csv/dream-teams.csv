@@ -1,0 +1,23 @@
+type,gw,position,player_id,opta_id,name,player_position,points,is_top_player
+gw,11,1,177,428645,Samuel Brolin,GK,8,False
+gw,11,2,183,560980,Rony Jansson,DEF,13,False
+gw,11,3,180,565491,Victor Larsson,DEF,8,False
+gw,11,4,10,493370,Andrej Djuric,DEF,8,False
+gw,11,5,244,511610,Áki Samuelsen,MID,15,False
+gw,11,6,371,693500,Axel Taonsa,MID,13,False
+gw,11,7,191,487389,Carl Gustafsson,MID,11,False
+gw,11,8,188,516874,Charles Sagoe Jr,MID,11,False
+gw,11,9,69,503537,Robbie Ure,FWD,22,True
+gw,11,10,174,499336,Kristian Lien,FWD,15,False
+gw,11,11,379,586601,Mikkel Ladefoged,FWD,12,False
+season,,1,99,243521,Isak Pettersson,GK,50,False
+season,,2,183,560980,Rony Jansson,DEF,61,False
+season,,3,52,221997,Oscar Krusnell,DEF,54,False
+season,,4,102,61795,Niklas Hult,DEF,51,False
+season,,5,61,551051,Isak Bjerkebo,MID,88,False
+season,,6,36,66449,Nahir Besara,MID,80,False
+season,,7,37,477664,Victor Lind,MID,71,False
+season,,8,167,632100,Bo Hegland,MID,69,False
+season,,9,69,503537,Robbie Ure,FWD,93,True
+season,,10,47,504869,Paulos Abraham,FWD,72,False
+season,,11,22,223095,Erik Botheim,FWD,69,False

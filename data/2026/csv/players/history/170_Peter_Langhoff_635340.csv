@@ -1,0 +1,11 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+170,7,1,2026-04-06T14:30:00Z,False,30,GAIS,0,1,False,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,55,92,0,0,0
+170,12,2,2026-04-12T12:00:00Z,True,10,Kalmar FF,3,2,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,55,85,1,16,-15
+170,18,3,2026-04-17T17:00:00Z,True,1,Malmö FF,0,1,False,15,0,0,0,0,0,0,0,0,0,0,1,0,0,2,4,2,54,68,0,18,-18
+170,25,4,2026-04-22T17:00:00Z,False,5,IF Elfsborg,2,1,False,62,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,53,72,8,7,1
+170,34,5,2026-04-26T12:00:00Z,True,2,Hammarby,1,1,False,90,0,0,0,1,0,0,0,1,0,0,0,1,0,0,13,2,53,71,2,4,-2
+170,47,6,2026-05-04T17:00:00Z,True,4,IFK Göteborg,6,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,74,6,4,2
+170,52,7,2026-05-10T12:00:00Z,False,12,AIK,2,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,66,1,9,-8
+170,62,8,2026-05-18T17:00:00Z,True,3,IK Sirius,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,60,1,6,-5
+170,65,9,2026-05-22T17:00:00Z,True,21,BP,1,2,False,26,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,52,57,0,5,-5
+170,85,11,2026-07-06T17:00:00Z,False,6,BK Häcken,2,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,54,0,0,0

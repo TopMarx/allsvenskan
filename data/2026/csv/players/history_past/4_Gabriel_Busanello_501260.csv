@@ -1,0 +1,4 @@
+player_id,opta_id,season_name,start_cost,end_cost,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points
+4,501260,2023,65,73,2185,1,6,11,21,0,0,0,8,0,0,18,18,0,48,230,140
+4,501260,2024,75,75,2057,1,6,11,21,0,0,0,5,0,0,14,7,1,39,164,127
+4,501260,2025,75,75,2392,0,2,9,28,1,0,0,3,0,0,19,19,0,49,251,122

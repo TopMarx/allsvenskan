@@ -1,0 +1,9 @@
+player_id,opta_id,season_name,start_cost,end_cost,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points
+130,94660,2018,45,44,976,1,0,3,12,0,0,0,0,0,0,0,0,0,4,83,52
+130,94660,2019,50,47,569,1,0,3,7,0,0,0,1,0,0,0,0,0,0,42,39
+130,94660,2020,45,44,573,2,0,1,7,0,0,0,0,0,0,0,9,0,2,68,46
+130,94660,2021,55,52,1653,0,1,2,32,0,0,0,5,2,0,2,25,0,11,157,59
+130,94660,2022,50,52,2605,2,0,5,36,1,0,0,5,0,0,0,28,1,4,346,103
+130,94660,2023,55,53,1022,0,0,2,14,1,0,0,1,0,0,0,14,0,1,150,37
+130,94660,2024,50,49,847,0,0,2,21,0,0,0,0,0,0,1,10,0,2,120,39
+130,94660,2025,50,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
