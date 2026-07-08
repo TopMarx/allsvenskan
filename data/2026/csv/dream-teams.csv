@@ -1,4 +1,26 @@
 type,gw,position,player_id,opta_id,name,player_position,points,is_top_player
+gw,1,1,153,182413,Jacob Rinne,GK,10,False
+gw,1,2,207,486847,Ibrahim Cissé,DEF,9,False
+gw,1,3,339,164593,Anton Andreasson,DEF,8,False
+gw,1,4,55,186531,Henrik Rönnlöf Castegren,DEF,8,False
+gw,1,5,364,441668,Frédéric Nsabiyumva,DEF,8,False
+gw,1,6,214,700308,Zadok Yohanna,MID,11,False
+gw,1,7,61,551051,Isak Bjerkebo,MID,11,False
+gw,1,8,113,240234,Simon Olsson,MID,10,False
+gw,1,9,36,66449,Nahir Besara,MID,10,False
+gw,1,10,118,193124,Julius Magnusson,MID,9,False
+gw,1,11,47,504869,Paulos Abraham,FWD,18,True
+gw,10,1,50,548928,David Celic,GK,8,False
+gw,10,2,55,186531,Henrik Rönnlöf Castegren,DEF,13,False
+gw,10,3,390,591975,Anes Cardaklija,DEF,13,False
+gw,10,4,52,221997,Oscar Krusnell,DEF,12,False
+gw,10,5,83,207884,Tobias Heintz,MID,23,True
+gw,10,6,37,477664,Victor Lind,MID,13,False
+gw,10,7,18,650700,Kenan Busuladzic,MID,12,False
+gw,10,8,371,693500,Axel Taonsa,MID,12,False
+gw,10,9,22,223095,Erik Botheim,FWD,18,False
+gw,10,10,69,503537,Robbie Ure,FWD,16,False
+gw,10,11,354,445539,Noah Christoffersson,FWD,12,False
 gw,11,1,177,428645,Samuel Brolin,GK,8,False
 gw,11,2,183,560980,Rony Jansson,DEF,13,False
 gw,11,3,180,565491,Victor Larsson,DEF,8,False
@@ -10,6 +32,94 @@ gw,11,8,188,516874,Charles Sagoe Jr,MID,11,False
 gw,11,9,69,503537,Robbie Ure,FWD,22,True
 gw,11,10,174,499336,Kristian Lien,FWD,15,False
 gw,11,11,379,586601,Mikkel Ladefoged,FWD,12,False
+gw,2,1,335,565487,Hampus Gustafsson,GK,9,False
+gw,2,2,339,164593,Anton Andreasson,DEF,13,True
+gw,2,3,285,157852,Sebastian Ohlsson,DEF,13,False
+gw,2,4,284,224856,Daniel Sundgren,DEF,13,False
+gw,2,5,338,61812,Mikael Dyrestam,DEF,12,False
+gw,2,6,102,61795,Niklas Hult,DEF,12,False
+gw,2,7,61,551051,Isak Bjerkebo,MID,10,False
+gw,2,8,318,477689,Mads Hansen,MID,9,False
+gw,2,9,418,687934,Oscar Sjöstrand,MID,9,False
+gw,2,10,379,586601,Mikkel Ladefoged,FWD,12,False
+gw,2,11,174,499336,Kristian Lien,FWD,11,False
+gw,3,1,230,570080,Robin Wallinder,GK,9,False
+gw,3,2,54,449894,Tobias Anker,DEF,14,False
+gw,3,3,28,538153,Noah Persson,DEF,12,False
+gw,3,4,55,186531,Henrik Rönnlöf Castegren,DEF,8,False
+gw,3,5,37,477664,Victor Lind,MID,18,True
+gw,3,6,36,66449,Nahir Besara,MID,14,False
+gw,3,7,61,551051,Isak Bjerkebo,MID,13,False
+gw,3,8,118,193124,Julius Magnusson,MID,10,False
+gw,3,9,247,570527,Ludwig Malachowski Thorell,MID,9,False
+gw,3,10,49,516901,Nikola Vasic,FWD,16,False
+gw,3,11,253,648174,Abdoulie Manneh,FWD,9,False
+gw,4,1,230,570080,Robin Wallinder,GK,10,False
+gw,4,2,337,531784,Christoffer Styffe,DEF,8,False
+gw,4,3,390,591975,Anes Cardaklija,DEF,8,False
+gw,4,4,53,607699,Mohamed Soumah,DEF,8,False
+gw,4,5,386,446356,August Wängberg,DEF,8,False
+gw,4,6,83,207884,Tobias Heintz,MID,9,False
+gw,4,7,66,544951,Marcus Lindberg,MID,8,False
+gw,4,8,138,593205,Jeremy Agbonifo,MID,8,False
+gw,4,9,379,586601,Mikkel Ladefoged,FWD,16,True
+gw,4,10,150,692479,Adrian Svanbäck,FWD,11,False
+gw,4,11,69,503537,Robbie Ure,FWD,8,False
+gw,5,1,2,52251,Johan Dahlin,GK,11,False
+gw,5,2,363,692744,Philip Bonde,DEF,15,True
+gw,5,3,53,607699,Mohamed Soumah,DEF,8,False
+gw,5,4,79,627127,Rockson Yeboah,DEF,8,False
+gw,5,5,6,68659,Jens Stryger Larsen,DEF,8,False
+gw,5,6,374,479613,Ismet Lushaku,MID,12,False
+gw,5,7,92,515742,David Kruse,MID,11,False
+gw,5,8,188,516874,Charles Sagoe Jr,MID,10,False
+gw,5,9,245,608213,Villiam Granath,MID,8,False
+gw,5,10,198,504077,Anthony Olusanya,FWD,8,False
+gw,5,11,254,483378,Jacob Bergström,FWD,8,False
+gw,6,1,153,182413,Jacob Rinne,GK,9,False
+gw,6,2,313,590160,Kaare Barslund,DEF,13,False
+gw,6,3,32,482192,Ibrahima Fofana,DEF,10,False
+gw,6,4,30,652944,Hampus Skoglund,DEF,10,False
+gw,6,5,183,560980,Rony Jansson,DEF,9,False
+gw,6,6,167,632100,Bo Hegland,MID,14,True
+gw,6,7,394,570319,Max Andersson,MID,13,False
+gw,6,8,168,644626,Patric Åslund,MID,13,False
+gw,6,9,164,226964,Jeppe Okkels,MID,12,False
+gw,6,10,11,198501,Sead Haksabanovic,MID,12,False
+gw,6,11,254,483378,Jacob Bergström,FWD,13,False
+gw,7,1,99,243521,Isak Pettersson,GK,9,False
+gw,7,2,29,565490,Victor Eriksson,DEF,14,False
+gw,7,3,161,522166,Mikael Marqués,DEF,9,False
+gw,7,4,57,652493,Victor Ekström,DEF,8,False
+gw,7,5,167,632100,Bo Hegland,MID,15,True
+gw,7,6,61,551051,Isak Bjerkebo,MID,15,False
+gw,7,7,188,516874,Charles Sagoe Jr,MID,10,False
+gw,7,8,398,549415,Róbert Frosti Thorkelsson,MID,9,False
+gw,7,9,242,608227,Elliot Stroud,MID,9,False
+gw,7,10,151,570094,Gustav Lindgren,FWD,13,False
+gw,7,11,121,662679,Leo Östman,FWD,12,False
+gw,8,1,306,666146,Leo Cavallius,GK,11,False
+gw,8,2,389,437691,Matteo de Brienne,DEF,16,False
+gw,8,3,386,446356,August Wängberg,DEF,10,False
+gw,8,4,387,479749,Oskar Ågren,DEF,10,False
+gw,8,5,36,66449,Nahir Besara,MID,24,True
+gw,8,6,401,484399,William Milovanovic,MID,12,False
+gw,8,7,140,531725,Julius Lindberg,MID,11,False
+gw,8,8,398,549415,Róbert Frosti Thorkelsson,MID,10,False
+gw,8,9,69,503537,Robbie Ure,FWD,12,False
+gw,8,10,403,531507,Samuel Salter,FWD,11,False
+gw,8,11,47,504869,Paulos Abraham,FWD,11,False
+gw,9,1,255,241641,Tim Rönning,GK,8,False
+gw,9,2,183,560980,Rony Jansson,DEF,12,True
+gw,9,3,57,652493,Victor Ekström,DEF,10,False
+gw,9,4,366,644620,Herman Magnusson,DEF,9,False
+gw,9,5,311,442881,Simon Strand,DEF,9,False
+gw,9,6,287,422015,Juhani Pikkarainen,DEF,8,False
+gw,9,7,270,492947,Rocco Ascone,MID,10,False
+gw,9,8,318,477689,Mads Hansen,MID,10,False
+gw,9,9,212,136380,Bersant Celina,MID,10,False
+gw,9,10,145,490896,Silas Andersen,MID,9,False
+gw,9,11,280,675122,Ludvig Arvidsson,FWD,10,False
 season,,1,99,243521,Isak Pettersson,GK,50,False
 season,,2,183,560980,Rony Jansson,DEF,61,False
 season,,3,52,221997,Oscar Krusnell,DEF,54,False
