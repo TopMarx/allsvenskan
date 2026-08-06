@@ -1,4 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 458,97,13,2026-07-18T13:00:00Z,True,30,GAIS,2,0,False,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,55,20,20,0,20
 458,108,14,2026-07-27T17:00:00Z,False,6,BK Häcken,0,0,False,90,0,0,1,0,0,0,0,1,0,0,0,1,0,0,10,6,55,99,79,1,78
-458,113,15,2026-08-02T14:30:00Z,True,25,Örgryte IS,,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,1112,743,4,739
+458,113,15,2026-08-02T14:30:00Z,True,25,Örgryte IS,0,3,False,90,0,0,0,3,0,0,0,0,0,0,0,2,0,0,18,3,55,1112,743,4,739
