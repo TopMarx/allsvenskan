@@ -76,6 +76,17 @@ gw,15,8,11,198501,Sead Haksabanovic,MID,11,False
 gw,15,9,167,632100,Bo Hegland,MID,10,False
 gw,15,10,174,499336,Kristian Lien,FWD,21,True
 gw,15,11,354,445539,Noah Christoffersson,FWD,18,False
+gw,16,1,99,243521,Isak Pettersson,GK,10,False
+gw,16,2,436,550601,Waylon Renecke,DEF,14,False
+gw,16,3,389,437691,Matteo de Brienne,DEF,12,False
+gw,16,4,308,470078,Oliver Zandén,DEF,9,False
+gw,16,5,102,61795,Niklas Hult,DEF,9,False
+gw,16,6,37,477664,Victor Lind,MID,13,False
+gw,16,7,113,240234,Simon Olsson,MID,10,False
+gw,16,8,188,516874,Charles Sagoe Jr,MID,10,False
+gw,16,9,470,584350,Linus Carlstrand,FWD,17,True
+gw,16,10,302,506069,Dijan Vukojevic,FWD,13,False
+gw,16,11,403,531507,Samuel Salter,FWD,12,False
 gw,2,1,335,565487,Hampus Gustafsson,GK,9,False
 gw,2,2,339,164593,Anton Andreasson,DEF,13,True
 gw,2,3,285,157852,Sebastian Ohlsson,DEF,13,False
@@ -164,14 +175,14 @@ gw,9,8,318,477689,Mads Hansen,MID,10,False
 gw,9,9,212,136380,Bersant Celina,MID,10,False
 gw,9,10,145,490896,Silas Andersen,MID,9,False
 gw,9,11,280,675122,Ludvig Arvidsson,FWD,10,False
-season,,1,153,182413,Jacob Rinne,GK,67,False
-season,,2,183,560980,Rony Jansson,DEF,69,False
-season,,3,52,221997,Oscar Krusnell,DEF,69,False
-season,,4,159,195882,Miro Tenho,DEF,67,False
-season,,5,61,551051,Isak Bjerkebo,MID,123,False
-season,,6,167,632100,Bo Hegland,MID,105,False
-season,,7,37,477664,Victor Lind,MID,92,False
-season,,8,36,66449,Nahir Besara,MID,88,False
-season,,9,69,503537,Robbie Ure,FWD,129,True
-season,,10,47,504869,Paulos Abraham,FWD,96,False
-season,,11,174,499336,Kristian Lien,FWD,94,False
+season,,1,99,243521,Isak Pettersson,GK,72,False
+season,,2,52,221997,Oscar Krusnell,DEF,71,False
+season,,3,183,560980,Rony Jansson,DEF,69,False
+season,,4,53,607699,Mohamed Soumah,DEF,69,False
+season,,5,61,551051,Isak Bjerkebo,MID,131,True
+season,,6,167,632100,Bo Hegland,MID,109,False
+season,,7,37,477664,Victor Lind,MID,105,False
+season,,8,188,516874,Charles Sagoe Jr,MID,96,False
+season,,9,69,503537,Robbie Ure,FWD,129,False
+season,,10,47,504869,Paulos Abraham,FWD,103,False
+season,,11,174,499336,Kristian Lien,FWD,96,False
