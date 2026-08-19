@@ -13,10 +13,10 @@ id,name,deadline_time,average_entry_score,highest_score,finished,data_checked,is
 12,Round 12,2026-07-11T12:55:00Z,61,138,True,True,False,False,False
 13,Round 13,2026-07-17T16:55:00Z,60,119,True,True,False,False,False
 14,Round 14,2026-07-24T16:55:00Z,54,118,True,False,False,False,False
-15,Round 15,2026-08-01T12:55:00Z,47,139,True,True,True,False,False
-16,Round 16,2026-08-08T12:55:00Z,48,103,True,True,False,True,False
-17,Round 17,2026-08-14T16:55:00Z,0,,False,False,False,False,True
-18,Round 18,2026-08-21T16:55:00Z,0,,False,False,False,False,False
+15,Round 15,2026-08-01T12:55:00Z,47,139,True,True,False,False,False
+16,Round 16,2026-08-08T12:55:00Z,48,103,True,True,True,False,False
+17,Round 17,2026-08-14T16:55:00Z,52,118,True,True,False,True,False
+18,Round 18,2026-08-21T16:55:00Z,0,,False,False,False,False,True
 19,Round 19,2026-08-29T12:55:00Z,0,,False,False,False,False,False
 20,Round 20,2026-09-05T12:55:00Z,0,,False,False,False,False,False
 21,Round 21,2026-09-11T16:55:00Z,0,,False,False,False,False,False

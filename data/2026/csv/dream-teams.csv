@@ -87,6 +87,17 @@ gw,16,8,188,516874,Charles Sagoe Jr,MID,10,False
 gw,16,9,470,584350,Linus Carlstrand,FWD,17,True
 gw,16,10,302,506069,Dijan Vukojevic,FWD,13,False
 gw,16,11,403,531507,Samuel Salter,FWD,12,False
+gw,17,1,281,160252,Matvei Igonen,GK,11,False
+gw,17,2,292,733470,Samba Diatara,DEF,13,False
+gw,17,3,31,449396,Frederik Winther,DEF,12,False
+gw,17,4,28,538153,Noah Persson,DEF,12,False
+gw,17,5,417,673009,Momoh Kamara,MID,18,True
+gw,17,6,252,695386,Olle Lindberg,MID,12,False
+gw,17,7,266,530685,Otso Liimatta,MID,12,False
+gw,17,8,469,588767,Amin Boudri,MID,12,False
+gw,17,9,302,506069,Dijan Vukojevic,FWD,13,False
+gw,17,10,470,584350,Linus Carlstrand,FWD,12,False
+gw,17,11,254,483378,Jacob Bergström,FWD,11,False
 gw,2,1,335,565487,Hampus Gustafsson,GK,9,False
 gw,2,2,339,164593,Anton Andreasson,DEF,13,True
 gw,2,3,285,157852,Sebastian Ohlsson,DEF,13,False
@@ -175,14 +186,14 @@ gw,9,8,318,477689,Mads Hansen,MID,10,False
 gw,9,9,212,136380,Bersant Celina,MID,10,False
 gw,9,10,145,490896,Silas Andersen,MID,9,False
 gw,9,11,280,675122,Ludvig Arvidsson,FWD,10,False
-season,,1,99,243521,Isak Pettersson,GK,72,False
-season,,2,52,221997,Oscar Krusnell,DEF,71,False
-season,,3,183,560980,Rony Jansson,DEF,69,False
-season,,4,53,607699,Mohamed Soumah,DEF,69,False
-season,,5,61,551051,Isak Bjerkebo,MID,131,True
-season,,6,167,632100,Bo Hegland,MID,109,False
-season,,7,37,477664,Victor Lind,MID,105,False
-season,,8,188,516874,Charles Sagoe Jr,MID,96,False
+season,,1,99,243521,Isak Pettersson,GK,79,False
+season,,2,31,449396,Frederik Winther,DEF,78,False
+season,,3,102,61795,Niklas Hult,DEF,74,False
+season,,4,30,652944,Hampus Skoglund,DEF,74,False
+season,,5,61,551051,Isak Bjerkebo,MID,142,True
+season,,6,167,632100,Bo Hegland,MID,117,False
+season,,7,37,477664,Victor Lind,MID,116,False
+season,,8,188,516874,Charles Sagoe Jr,MID,98,False
 season,,9,69,503537,Robbie Ure,FWD,129,False
-season,,10,47,504869,Paulos Abraham,FWD,103,False
-season,,11,174,499336,Kristian Lien,FWD,96,False
+season,,10,47,504869,Paulos Abraham,FWD,111,False
+season,,11,174,499336,Kristian Lien,FWD,99,False
