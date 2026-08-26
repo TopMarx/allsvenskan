@@ -98,6 +98,17 @@ gw,17,8,469,588767,Amin Boudri,MID,12,False
 gw,17,9,302,506069,Dijan Vukojevic,FWD,13,False
 gw,17,10,470,584350,Linus Carlstrand,FWD,12,False
 gw,17,11,254,483378,Jacob Bergström,FWD,11,False
+gw,18,1,359,695365,Elis Jäger,GK,9,False
+gw,18,2,160,189744,Piotr Johansson,DEF,12,False
+gw,18,3,308,470078,Oliver Zandén,DEF,10,False
+gw,18,4,30,652944,Hampus Skoglund,DEF,9,False
+gw,18,5,37,477664,Victor Lind,MID,15,True
+gw,18,6,140,531725,Julius Lindberg,MID,13,False
+gw,18,7,318,477689,Mads Hansen,MID,10,False
+gw,18,8,270,492947,Rocco Ascone,MID,9,False
+gw,18,9,151,570094,Gustav Lindgren,FWD,11,False
+gw,18,10,460,114226,Sam Larsson,FWD,9,False
+gw,18,11,174,499336,Kristian Lien,FWD,9,False
 gw,2,1,335,565487,Hampus Gustafsson,GK,9,False
 gw,2,2,339,164593,Anton Andreasson,DEF,13,True
 gw,2,3,285,157852,Sebastian Ohlsson,DEF,13,False
@@ -186,14 +197,14 @@ gw,9,8,318,477689,Mads Hansen,MID,10,False
 gw,9,9,212,136380,Bersant Celina,MID,10,False
 gw,9,10,145,490896,Silas Andersen,MID,9,False
 gw,9,11,280,675122,Ludvig Arvidsson,FWD,10,False
-season,,1,99,243521,Isak Pettersson,GK,79,False
-season,,2,31,449396,Frederik Winther,DEF,78,False
-season,,3,102,61795,Niklas Hult,DEF,74,False
-season,,4,30,652944,Hampus Skoglund,DEF,74,False
-season,,5,61,551051,Isak Bjerkebo,MID,142,True
-season,,6,167,632100,Bo Hegland,MID,117,False
-season,,7,37,477664,Victor Lind,MID,116,False
-season,,8,188,516874,Charles Sagoe Jr,MID,98,False
+season,,1,25,120151,Warner Hahn,GK,85,False
+season,,2,31,449396,Frederik Winther,DEF,84,False
+season,,3,30,652944,Hampus Skoglund,DEF,83,False
+season,,4,102,61795,Niklas Hult,DEF,78,False
+season,,5,61,551051,Isak Bjerkebo,MID,144,True
+season,,6,37,477664,Victor Lind,MID,131,False
+season,,7,167,632100,Bo Hegland,MID,125,False
+season,,8,188,516874,Charles Sagoe Jr,MID,102,False
 season,,9,69,503537,Robbie Ure,FWD,129,False
-season,,10,47,504869,Paulos Abraham,FWD,111,False
-season,,11,174,499336,Kristian Lien,FWD,99,False
+season,,10,47,504869,Paulos Abraham,FWD,119,False
+season,,11,174,499336,Kristian Lien,FWD,108,False
