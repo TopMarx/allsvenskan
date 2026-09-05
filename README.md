@@ -112,14 +112,13 @@ confirmed complete (`finished` and `data_checked` both true in the bootstrap),
 plus live points, GW dream team, season dream team, and regions. The
 platform usually confirms and checks a gameweek's data during the day after
 its last match, which is what the daytime checks are for. A closure spotted
-by any slot is fetched straight away, even if players were already fetched
+by any run is fetched straight away, even if players were already fetched
 earlier that day.
 
 Player element-summary files are only fetched when needed, keeping API usage
-polite and minimal. Only the nightly slot refreshes bootstrap and fixtures on
-an idle day, so idle retries and daytime checks leave no commits behind. A
-run started by hand from the Actions tab (slot `manual`) behaves like nightly
-but fails, rather than defers, if the API is unreachable.
+polite and minimal. Only the nightly run refreshes bootstrap and fixtures on
+an idle day, so retries and closure checks that find nothing to do leave no
+commits behind.
 
 ### Monitoring
 
@@ -156,8 +155,8 @@ guaranteed to contain only that season's data.
 
 During the off-season the old game keeps serving the finished season's final
 state, and daily runs quietly refresh it under the old season label. If the
-platform takes the API down to launch the new game, the `final` slot's run
-fails each day and the other slots defer quietly — this is expected. Once
+platform takes the API down to launch the new game, one run a day reports a
+failure and the others wait quietly — this is expected. Once
 the new game is live, the next run derives the new season and creates its
 `data/{season}` directory automatically.
 
