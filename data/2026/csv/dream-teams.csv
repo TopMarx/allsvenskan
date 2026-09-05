@@ -109,6 +109,17 @@ gw,18,8,270,492947,Rocco Ascone,MID,9,False
 gw,18,9,151,570094,Gustav Lindgren,FWD,11,False
 gw,18,10,460,114226,Sam Larsson,FWD,9,False
 gw,18,11,174,499336,Kristian Lien,FWD,9,False
+gw,19,1,153,182413,Jacob Rinne,GK,19,False
+gw,19,2,162,157818,Jacob Une,DEF,14,False
+gw,19,3,160,189744,Piotr Johansson,DEF,14,False
+gw,19,4,157,443250,Adam Ståhl,DEF,14,False
+gw,19,5,459,106325,Hjörtur Hermannsson,DEF,13,False
+gw,19,6,159,195882,Miro Tenho,DEF,12,False
+gw,19,7,167,632100,Bo Hegland,MID,16,False
+gw,19,8,164,226964,Jeppe Okkels,MID,13,False
+gw,19,9,393,687441,Rasmus Niklasson Petrovic,MID,13,False
+gw,19,10,168,644626,Patric Åslund,MID,12,False
+gw,19,11,174,499336,Kristian Lien,FWD,21,True
 gw,2,1,335,565487,Hampus Gustafsson,GK,9,False
 gw,2,2,339,164593,Anton Andreasson,DEF,13,True
 gw,2,3,285,157852,Sebastian Ohlsson,DEF,13,False
@@ -197,14 +208,14 @@ gw,9,8,318,477689,Mads Hansen,MID,10,False
 gw,9,9,212,136380,Bersant Celina,MID,10,False
 gw,9,10,145,490896,Silas Andersen,MID,9,False
 gw,9,11,280,675122,Ludvig Arvidsson,FWD,10,False
-season,,1,25,120151,Warner Hahn,GK,85,False
-season,,2,31,449396,Frederik Winther,DEF,84,False
-season,,3,30,652944,Hampus Skoglund,DEF,83,False
-season,,4,102,61795,Niklas Hult,DEF,78,False
-season,,5,61,551051,Isak Bjerkebo,MID,144,True
-season,,6,37,477664,Victor Lind,MID,131,False
-season,,7,167,632100,Bo Hegland,MID,125,False
-season,,8,188,516874,Charles Sagoe Jr,MID,102,False
+season,,1,153,182413,Jacob Rinne,GK,97,False
+season,,2,102,61795,Niklas Hult,DEF,89,False
+season,,3,159,195882,Miro Tenho,DEF,87,False
+season,,4,31,449396,Frederik Winther,DEF,85,False
+season,,5,61,551051,Isak Bjerkebo,MID,147,True
+season,,6,167,632100,Bo Hegland,MID,141,False
+season,,7,37,477664,Victor Lind,MID,138,False
+season,,8,188,516874,Charles Sagoe Jr,MID,106,False
 season,,9,69,503537,Robbie Ure,FWD,129,False
-season,,10,47,504869,Paulos Abraham,FWD,119,False
-season,,11,174,499336,Kristian Lien,FWD,108,False
+season,,10,174,499336,Kristian Lien,FWD,129,False
+season,,11,47,504869,Paulos Abraham,FWD,125,False
