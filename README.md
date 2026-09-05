@@ -96,18 +96,16 @@ without needing to know the current season year:
 
 ## Update schedule
 
-Runs are started on time by an external scheduler, a small Cloudflare Worker
-called `ism-fantasy-scheduler`, through `workflow_dispatch` with a `slot`
-input. The workflow has no `schedule` trigger of its own: GitHub's cron queue
-was starting runs hours late, so all scheduling lives in the Worker. Each
-day, UTC:
+The repository updates itself several times a day. Runs are started by a
+small external scheduler (a Cloudflare Worker) rather than by GitHub's own
+cron, which had been starting runs hours late. Each day, UTC:
 
-| Time | Slot | What happens |
+| Time | Run | What happens |
 |---|---|---|
-| 02:30 | `nightly` | Refresh bootstrap and fixtures; if there were matches yesterday, fetch player data for every team that has played in the current gameweek |
-| 03:30 | `retry` | Same as nightly, but only acts if nightly fetched nothing (blocked, or API unreachable); writes nothing when idle |
-| 04:30 | `final` | Last retry; the only slot that reports an unreachable API as a failure |
-| 10:30, 12:30, 14:30, 16:30, 18:30 | `daytime` | Gameweek-closure checks; write nothing unless a fetch happens |
+| 02:30 | Nightly | Refresh bootstrap and fixtures; if there were matches yesterday, fetch player data for every team that has played in the current gameweek |
+| 03:30 | Retry | Repeats the nightly fetch only if it could not run (data still processing, or the league API unreachable) |
+| 04:30 | Final retry | Last attempt; the only run that reports an unreachable API as a failure |
+| 10:30, 12:30, 14:30, 16:30, 18:30 | Closure checks | Look for a confirmed gameweek and, if found, do the full closure fetch below |
 
 **Gameweek closure** — a full fetch of all players once a gameweek is
 confirmed complete (`finished` and `data_checked` both true in the bootstrap),
