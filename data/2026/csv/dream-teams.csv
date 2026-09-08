@@ -208,14 +208,25 @@ gw,19,8,164,226964,Jeppe Okkels,MID,13,False
 gw,19,9,393,687441,Rasmus Niklasson Petrovic,MID,13,False
 gw,19,10,168,644626,Patric Åslund,MID,12,False
 gw,19,11,174,499336,Kristian Lien,FWD,21,True
-season,,1,153,182413,Jacob Rinne,GK,97,False
-season,,2,102,61795,Niklas Hult,DEF,89,False
-season,,3,159,195882,Miro Tenho,DEF,87,False
-season,,4,31,449396,Frederik Winther,DEF,85,False
-season,,5,61,551051,Isak Bjerkebo,MID,147,True
-season,,6,167,632100,Bo Hegland,MID,141,False
-season,,7,37,477664,Victor Lind,MID,138,False
-season,,8,188,516874,Charles Sagoe Jr,MID,106,False
-season,,9,69,503537,Robbie Ure,FWD,129,False
-season,,10,174,499336,Kristian Lien,FWD,129,False
-season,,11,47,504869,Paulos Abraham,FWD,125,False
+gw,20,1,201,61760,Kristoffer Nordfeldt,GK,10,False
+gw,20,2,210,613677,Wilmer Olofsson,DEF,8,False
+gw,20,3,461,667169,Nikolai Skuseth,DEF,8,False
+gw,20,4,54,449894,Tobias Anker,DEF,8,False
+gw,20,5,127,170945,Adam Lundkvist,DEF,8,False
+gw,20,6,458,179618,Hervé Matthys,DEF,8,False
+gw,20,7,83,207884,Tobias Heintz,MID,10,False
+gw,20,8,167,632100,Bo Hegland,MID,9,False
+gw,20,9,319,608223,Anton Kurochkin,MID,8,False
+gw,20,10,460,114226,Sam Larsson,FWD,15,True
+gw,20,11,489,570939,Alexander Simmelhack,FWD,8,False
+season,,1,153,182413,Jacob Rinne,GK,105,False
+season,,2,159,195882,Miro Tenho,DEF,94,False
+season,,3,102,61795,Niklas Hult,DEF,91,False
+season,,4,160,189744,Piotr Johansson,DEF,90,False
+season,,5,167,632100,Bo Hegland,MID,150,True
+season,,6,61,551051,Isak Bjerkebo,MID,150,False
+season,,7,37,477664,Victor Lind,MID,146,False
+season,,8,83,207884,Tobias Heintz,MID,110,False
+season,,9,174,499336,Kristian Lien,FWD,130,False
+season,,10,69,503537,Robbie Ure,FWD,129,False
+season,,11,47,504869,Paulos Abraham,FWD,128,False
