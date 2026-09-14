@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 496,148,19,2026-08-31T17:00:00Z,False,30,GAIS,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
 496,153,20,2026-09-06T14:30:00Z,True,5,IF Elfsborg,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,1,1,0,1
+496,164,21,2026-09-13T12:00:00Z,False,2,Hammarby,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,3,1,0,1
