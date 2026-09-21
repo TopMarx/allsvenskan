@@ -2,7 +2,7 @@
   "team_opta_id": 1406,
   "team_name": "Djurgården",
   "season": 2026,
-  "generated_at": "2026-09-21T02:45:35.228291+00:00",
+  "generated_at": "2026-09-21T10:46:12.569540+00:00",
   "players": [
     {
       "player_id": 508,
@@ -8141,6 +8141,50 @@
           "selected": 4212,
           "transfers_in": 399,
           "transfers_out": 80
+        }
+      ]
+    },
+    {
+      "player_id": 514,
+      "opta_id": 717226,
+      "first_name": "Alexander",
+      "second_name": "Johansson",
+      "web_name": "A. Johansson",
+      "known_name": "",
+      "position": "MID",
+      "history": [
+        {
+          "element": 514,
+          "fixture": 171,
+          "opponent_team": 5,
+          "total_points": 0,
+          "was_home": true,
+          "kickoff_time": "2026-09-20T12:00:00Z",
+          "team_h_score": 1,
+          "team_a_score": 2,
+          "round": 22,
+          "modified": false,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "attacking_bonus": 0,
+          "defending_bonus": 0,
+          "winning_goals": 0,
+          "key_passes": 0,
+          "clearances_blocks_interceptions": 0,
+          "value": 50,
+          "transfers_balance": 0,
+          "selected": 0,
+          "transfers_in": 0,
+          "transfers_out": 0
         }
       ]
     },

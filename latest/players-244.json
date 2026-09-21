@@ -2,7 +2,7 @@
   "team_opta_id": 244,
   "team_name": "IFK Göteborg",
   "season": 2026,
-  "generated_at": "2026-09-21T02:45:35.228291+00:00",
+  "generated_at": "2026-09-21T10:46:12.569540+00:00",
   "players": [
     {
       "player_id": 323,
@@ -10317,6 +10317,50 @@
           "value": 43,
           "transfers_balance": 0,
           "selected": 83,
+          "transfers_in": 0,
+          "transfers_out": 0
+        }
+      ]
+    },
+    {
+      "player_id": 513,
+      "opta_id": 700299,
+      "first_name": "Emil",
+      "second_name": "Fasth",
+      "web_name": "Fasth",
+      "known_name": "",
+      "position": "DEF",
+      "history": [
+        {
+          "element": 513,
+          "fixture": 169,
+          "opponent_team": 21,
+          "total_points": 0,
+          "was_home": false,
+          "kickoff_time": "2026-09-19T13:00:00Z",
+          "team_h_score": 0,
+          "team_a_score": 1,
+          "round": 22,
+          "modified": false,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "attacking_bonus": 0,
+          "defending_bonus": 0,
+          "winning_goals": 0,
+          "key_passes": 0,
+          "clearances_blocks_interceptions": 0,
+          "value": 45,
+          "transfers_balance": 0,
+          "selected": 0,
           "transfers_in": 0,
           "transfers_out": 0
         }
