@@ -1,12 +1,12 @@
 {
   "last_closed_gw": 22,
   "season": 2026,
-  "current_gw": 22,
-  "fetch_type": "none",
-  "expected_count": 515,
-  "fetched_count": 515,
+  "current_gw": 23,
+  "fetch_type": "active_gw",
+  "expected_count": 67,
+  "fetched_count": 67,
   "failed_ids": [],
   "completed": true,
-  "last_run": "2026-10-09T02:31:21.789983+00:00",
-  "reason": "GW22 closure already recorded"
+  "last_run": "2026-10-10T02:33:20.038946+00:00",
+  "event_status": "event-status unavailable"
 }
