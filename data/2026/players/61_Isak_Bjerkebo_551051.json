@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 179,
-      "code": 2615417,
-      "team_h": 30,
-      "team_h_score": null,
-      "team_a": 3,
-      "team_a_score": null,
-      "event": 23,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-10-10T13:00:00Z",
-      "event_name": "Round 23",
-      "is_home": false
-    },
-    {
       "id": 190,
       "code": 2615427,
       "team_h": 3,
@@ -847,6 +832,39 @@
       "selected": 36992,
       "transfers_in": 111,
       "transfers_out": 652
+    },
+    {
+      "element": 61,
+      "fixture": 179,
+      "opponent_team": 30,
+      "total_points": 10,
+      "was_home": false,
+      "kickoff_time": "2026-10-10T13:00:00Z",
+      "team_h_score": 0,
+      "team_a_score": 1,
+      "round": 23,
+      "modified": false,
+      "minutes": 87,
+      "goals_scored": 1,
+      "assists": 0,
+      "clean_sheets": 1,
+      "goals_conceded": 0,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 1,
+      "defending_bonus": 0,
+      "winning_goals": 1,
+      "key_passes": 2,
+      "clearances_blocks_interceptions": 6,
+      "value": 94,
+      "transfers_balance": -842,
+      "selected": 35967,
+      "transfers_in": 109,
+      "transfers_out": 951
     }
   ],
   "history_past": [
