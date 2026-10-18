@@ -184,7 +184,7 @@ fixture_id,fixture_opta_id,gameweek,team_h_id,team_h_opta_id,team_h_name,team_h_
 178,2615421,23,5,375,IF Elfsborg,IFE,15,466,Halmstads BK,HBK,4,0,2026-10-12T17:00:00Z,True,True,,
 183,2615420,23,1,993,Malmö FF,MFF,10,2594,Kalmar FF,KFF,1,0,2026-10-12T17:00:00Z,True,True,,
 186,2615425,24,21,2352,BP,BP,7,1406,Djurgården,DIF,0,2,2026-10-16T17:00:00Z,False,True,,
-185,2615422,24,12,195,AIK,AIK,4,244,IFK Göteborg,GBG,,,2026-10-17T15:30:00Z,False,False,,
+185,2615422,24,12,195,AIK,AIK,4,244,IFK Göteborg,GBG,2,2,2026-10-17T15:30:00Z,False,True,,
 190,2615427,24,3,3056,IK Sirius,IKS,5,375,IF Elfsborg,IFE,,,2026-10-18T12:00:00Z,False,False,,
 191,2615428,24,29,6211,Västerås SK,VSK,14,2360,Mjällby AIF,MAIF,,,2026-10-18T12:00:00Z,False,False,,
 188,2615429,24,15,466,Halmstads BK,HBK,2,1987,Hammarby,HAM,,,2026-10-18T14:30:00Z,False,False,,
