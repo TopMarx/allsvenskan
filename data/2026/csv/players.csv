@@ -8,7 +8,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 7,651850,Bleon,Kurtulus,Kurtulus,,1,993,Malmö FF,MFF,2,DEF,a,,447,1,0,0,8,0,0,0,3,0,0,0,1,0,1,56,21,57,2.6
 8,509041,Johan,Karlsson,Karlsson,,1,993,Malmö FF,MFF,2,DEF,u,Har lämnat klubben.,294,0,0,0,8,0,0,0,0,0,0,1,0,0,3,28,11,58,1.2
 9,204812,Colin,Rösler,Rösler,,1,993,Malmö FF,MFF,2,DEF,u,Har lämnat klubben.,849,0,1,3,19,0,0,0,0,0,0,0,4,0,3,78,31,58,3.5
-10,493370,Andrej,Djuric,Djuric,,1,993,Malmö FF,MFF,2,DEF,s,Avstängd i omgång 24.,1515,1,0,7,25,0,0,0,6,0,0,0,12,1,1,182,66,59,1.9
+10,493370,Andrej,Djuric,Djuric,,1,993,Malmö FF,MFF,2,DEF,a,,1515,1,0,7,25,0,0,0,6,0,0,0,12,1,1,182,66,59,1.9
 11,198501,Sead,Haksabanovic,Haksabanovic,,1,993,Malmö FF,MFF,3,MID,a,,1893,4,8,8,31,0,0,0,3,0,0,15,2,1,45,129,111,97,7.2
 12,420618,Arnór,Sigurdsson,Sigurdsson,,1,993,Malmö FF,MFF,3,MID,u,Har lämnat klubben.,105,0,0,0,2,0,0,0,0,0,0,0,0,0,1,10,5,93,0.2
 13,76466,Anders,Christiansen,Christiansen,,1,993,Malmö FF,MFF,3,MID,a,,154,0,0,0,2,0,0,0,0,0,0,1,0,0,3,13,7,86,0.5
@@ -27,7 +27,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 26,501589,Felix,Jakobsson,Jakobsson,,2,1987,Hammarby,HAM,1,GK,a,,90,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11,7,54,0.6
 27,658067,Elton,Fischerström,Fischerström,,2,1987,Hammarby,HAM,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.1
 28,538153,Noah,Persson,Persson,,2,1987,Hammarby,HAM,2,DEF,a,,1516,3,2,8,15,0,0,0,3,0,0,4,2,1,20,131,98,74,2.6
-29,565490,Victor,Eriksson,Eriksson,,2,1987,Hammarby,HAM,2,DEF,s,Avstängd i omgång 24.,1479,1,0,5,17,0,0,0,6,0,0,0,13,1,3,183,65,63,16.9
+29,565490,Victor,Eriksson,Eriksson,,2,1987,Hammarby,HAM,2,DEF,a,,1479,1,0,5,17,0,0,0,6,0,0,0,13,1,3,183,65,63,16.9
 30,652944,Hampus,Skoglund,Skoglund,,2,1987,Hammarby,HAM,2,DEF,a,,2037,0,3,10,19,0,0,0,2,1,0,8,12,0,27,227,106,68,16.8
 31,449396,Frederik,Winther,Winther,,2,1987,Hammarby,HAM,2,DEF,a,,2047,2,0,9,20,0,0,0,1,0,0,6,18,0,18,266,113,67,24.7
 32,482192,Ibrahima,Fofana,Fofana,,2,1987,Hammarby,HAM,2,DEF,a,,1292,1,1,7,11,0,0,0,1,0,0,1,11,0,5,170,78,53,2.0
@@ -45,13 +45,13 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 44,672946,Wilson,Lindberg Uhrström,Lindberg Uhrström,,6,1959,BK Häcken,BKH,3,MID,a,,123,0,0,1,1,0,0,0,0,0,0,0,0,0,1,12,11,47,0.1
 45,728678,Sourou,Koné,Koné,,2,1987,Hammarby,HAM,3,MID,d,Tillbaka i träning.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,48,0.1
 46,479386,Dennis,Collander,Collander,,30,670,GAIS,GAIS,3,MID,a,,372,0,3,2,2,0,0,0,1,0,0,1,0,0,5,33,25,45,0.1
-47,504869,Paulos,Abraham,Abraham,,2,1987,Hammarby,HAM,4,FWD,a,,1873,14,5,11,19,0,0,1,0,0,0,13,1,4,38,88,147,107,42.2
+47,504869,Paulos,Abraham,Abraham,,2,1987,Hammarby,HAM,4,FWD,a,,1873,14,5,11,19,0,0,1,0,0,0,13,1,4,38,88,147,107,42.1
 48,611698,Elohim,Kaboré,Kaboré,,2,1987,Hammarby,HAM,4,FWD,u,Utlånad till SK Beveren.,194,0,0,0,2,0,0,0,1,0,0,0,0,0,3,5,9,78,2.9
 49,516901,Nikola,Vasic,Vasic,,30,670,GAIS,GAIS,4,FWD,a,,666,5,0,5,5,0,0,0,0,0,0,1,0,0,8,40,50,74,2.5
 50,548928,David,Celic,Celic,,3,3056,IK Sirius,IKS,1,GK,a,,2160,0,0,8,30,0,0,0,2,0,67,0,0,0,0,230,98,52,8.2
 51,531041,Ismael,Diawara,Diawara,,3,3056,IK Sirius,IKS,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,1.8
 52,221997,Oscar,Krusnell,Krusnell,,3,3056,IK Sirius,IKS,2,DEF,a,,2032,0,4,8,29,1,0,0,4,0,0,18,19,0,45,264,109,69,14.2
-53,607699,Mohamed,Soumah,Soumah,,3,3056,IK Sirius,IKS,2,DEF,a,,1701,4,0,4,26,0,0,0,4,1,0,0,22,0,3,249,85,53,13.0
+53,607699,Mohamed,Soumah,Soumah,,3,3056,IK Sirius,IKS,2,DEF,a,,1701,4,0,4,26,0,0,0,4,1,0,0,22,0,3,249,85,53,12.9
 54,449894,Tobias,Anker,Anker,,3,3056,IK Sirius,IKS,2,DEF,a,,1879,2,1,8,24,1,0,0,3,0,0,1,19,1,4,234,96,52,17.9
 55,186531,Henrik,Rönnlöf Castegren,Castegren,,3,3056,IK Sirius,IKS,2,DEF,a,,1980,3,0,7,28,0,0,0,0,0,0,1,16,0,6,246,97,50,28.8
 56,95814,Simon,Sandberg,Sandberg,,3,3056,IK Sirius,IKS,2,DEF,a,,411,0,0,2,6,0,0,0,0,0,0,0,4,0,2,61,25,43,1.0
@@ -59,7 +59,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 58,685671,Isaac,Höök,Höök,,3,3056,IK Sirius,IKS,2,DEF,n,Utlånad till Karlstad Fotboll. Kan spela för båda föreningarna.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,43,0.1
 59,440610,Bogdan,Milovanov,Milovanov,,3,3056,IK Sirius,IKS,2,DEF,u,Utlånad till Gnistan.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0.9
 60,649760,Ben,Magnusson,Magnusson,,3,3056,IK Sirius,IKS,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0.7
-61,551051,Isak,Bjerkebo,Bjerkebo,,3,3056,IK Sirius,IKS,3,MID,a,,2101,14,10,9,27,0,0,1,0,0,0,13,0,4,41,86,172,93,61.9
+61,551051,Isak,Bjerkebo,Bjerkebo,,3,3056,IK Sirius,IKS,3,MID,a,,2101,14,10,9,27,0,0,1,0,0,0,13,0,4,41,86,172,93,61.8
 62,495439,Joakim,Persson,Persson,,3,3056,IK Sirius,IKS,3,MID,a,,610,2,3,0,10,0,0,0,1,0,0,1,1,0,6,42,37,72,1.5
 63,634752,Neo,Jönsson,Jönsson,,3,3056,IK Sirius,IKS,3,MID,a,,708,2,2,4,8,0,0,0,2,0,0,5,1,2,12,46,47,68,3.5
 64,646004,Matthias,Nartey,Nartey,,3,3056,IK Sirius,IKS,3,MID,d,Tillbaka i träning.,163,0,1,0,4,0,0,0,0,0,0,0,0,0,0,20,13,63,0.1
@@ -75,20 +75,20 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 74,551066,Viktor,Andersson,V. Andersson,,4,244,IFK Göteborg,GBG,1,GK,a,,990,0,0,4,14,0,0,0,0,0,25,0,0,0,1,96,44,48,1.2
 75,179300,Jonathan,Rasheed,Rasheed,,4,244,IFK Göteborg,GBG,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.1
 76,654890,Noah,Tolf,Tolf,,4,244,IFK Göteborg,GBG,2,DEF,a,,1200,1,2,4,22,0,0,0,1,0,0,10,12,1,25,168,70,69,2.7
-77,240166,Alexander,Jallow,Jallow,,4,244,IFK Göteborg,GBG,2,DEF,d,Missade senast p.g.a. känning,948,0,0,0,21,0,0,0,1,0,0,2,5,0,8,106,21,50,0.8
+77,240166,Alexander,Jallow,Jallow,,4,244,IFK Göteborg,GBG,2,DEF,i,Skadad.,948,0,0,0,21,0,0,0,1,0,0,2,5,0,8,106,21,50,0.8
 78,232091,August,Erlingmark,Erlingmark,,4,244,IFK Göteborg,GBG,2,DEF,d,På väg tillbaka.,1553,1,0,1,35,0,0,0,4,0,0,1,14,0,6,195,42,53,3.8
 79,627127,Rockson,Yeboah,Yeboah,,4,244,IFK Göteborg,GBG,2,DEF,u,Har lämnat för Osasuna.,1195,2,1,1,28,0,0,0,2,1,0,0,22,0,2,225,53,54,1.3
-80,575855,Felix,Eriksson,Eriksson,,4,244,IFK Göteborg,GBG,2,DEF,d,Missade omgång 23 p.g.a. skada.,1671,2,4,3,32,0,0,0,3,0,0,3,7,2,12,167,72,50,1.1
+80,575855,Felix,Eriksson,Eriksson,,4,244,IFK Göteborg,GBG,2,DEF,a,,1671,2,4,3,32,0,0,0,3,0,0,3,7,2,12,167,72,50,1.1
 81,180662,Jonas,Bager,Bager,,4,244,IFK Göteborg,GBG,2,DEF,a,,1137,0,1,3,20,0,0,0,4,0,0,0,11,0,2,147,40,48,0.4
 82,728654,Gabriel,Ersoy,Ersoy,,4,244,IFK Göteborg,GBG,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.1
 83,207884,Tobias,Heintz,Heintz,,4,244,IFK Göteborg,GBG,3,MID,a,,1954,6,6,5,38,0,0,1,5,0,0,29,3,1,77,134,124,99,8.6
 84,456052,Arbnor,Mucolli,Mucolli,,4,244,IFK Göteborg,GBG,3,MID,i,Skadad.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0.3
-85,479433,Adam,Bergmark Wiberg,Bergmark Wiberg,,4,244,IFK Göteborg,GBG,3,MID,d,Missade senast p.g.a. hjärnskakning,1540,1,3,4,36,0,0,0,3,0,0,11,1,0,31,91,63,69,1.6
+85,479433,Adam,Bergmark Wiberg,Bergmark Wiberg,,4,244,IFK Göteborg,GBG,3,MID,i,Skadad.,1540,1,3,4,36,0,0,0,3,0,0,11,1,0,31,91,63,69,1.6
 86,482450,Saidou,Alioum,Alioum,,4,244,IFK Göteborg,GBG,3,MID,u,Har lämnat klubben.,607,0,1,1,14,0,0,0,2,0,0,4,0,0,11,57,24,67,2.1
 87,213399,Ramon Pascal,Lundqvist,Lundqvist,,4,244,IFK Göteborg,GBG,3,MID,i,Skadad.,160,0,0,0,5,0,0,0,0,0,0,0,0,0,1,9,5,63,0.1
 88,648131,Benjamin,Brantlind,Brantlind,,4,244,IFK Göteborg,GBG,3,MID,u,Har lämnat klubben.,363,1,0,0,8,0,0,0,1,0,0,0,0,0,0,22,15,52,0.1
 89,531792,Filip,Ottosson,Ottosson,,4,244,IFK Göteborg,GBG,3,MID,u,Utlånad till Lillestrøm.,755,1,1,0,19,0,0,0,2,0,0,3,2,0,8,79,32,50,0.2
-90,246081,Kolbeinn,Thórdarson,Thórdarson,,4,244,IFK Göteborg,GBG,3,MID,s,Avstängd i omgång 24.,625,0,0,1,16,0,0,0,6,0,0,1,2,0,5,59,17,52,4.5
+90,246081,Kolbeinn,Thórdarson,Thórdarson,,4,244,IFK Göteborg,GBG,3,MID,a,,625,0,0,1,16,0,0,0,6,0,0,1,2,0,5,59,17,52,4.5
 91,495426,Imam,Jagne,Jagne,,4,244,IFK Göteborg,GBG,3,MID,u,Utlånad till Kifisia FC.,113,0,0,0,4,0,0,0,1,0,0,0,0,0,1,10,5,52,0.3
 92,515742,David,Kruse,Kruse,,4,244,IFK Göteborg,GBG,3,MID,a,,2020,2,1,3,39,0,0,0,3,0,0,9,9,0,30,200,76,48,4.2
 93,705168,Leo,Radakovic,Radakovic,,4,244,IFK Göteborg,GBG,3,MID,a,,22,0,0,0,1,0,0,0,1,0,0,0,0,0,2,3,2,48,0.0
@@ -102,7 +102,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 101,120722,Lucas,Hägg-Johansson,Hägg-Johansson,,5,375,IF Elfsborg,IFE,1,GK,i,Skadad.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.2
 102,61795,Niklas,Hult,Hult,,5,375,IF Elfsborg,IFE,2,DEF,a,,1993,1,4,9,20,0,0,0,2,0,0,8,16,0,26,244,116,62,33.9
 103,449942,Rasmus,Wikström,Wikström,,5,375,IF Elfsborg,IFE,2,DEF,a,,1601,1,0,5,17,0,0,0,3,0,0,0,16,0,5,240,73,53,2.5
-104,193792,Thomas,Isherwood,Isherwood,,5,375,IF Elfsborg,IFE,2,DEF,a,,2151,0,1,8,24,0,0,0,2,0,0,0,19,0,6,270,93,55,18.6
+104,193792,Thomas,Isherwood,Isherwood,,5,375,IF Elfsborg,IFE,2,DEF,a,,2151,0,1,8,24,0,0,0,2,0,0,0,19,0,6,270,93,55,18.5
 105,114286,Sebastian,Holmén,Holmén,,5,375,IF Elfsborg,IFE,2,DEF,a,,1067,0,1,5,11,0,0,0,4,0,0,0,3,0,1,104,48,49,1.9
 106,654712,Rufai,Mohammed,Mohammed,,5,375,IF Elfsborg,IFE,2,DEF,u,Utlånad till Venezia.,623,0,1,0,9,0,0,0,0,0,0,1,6,0,4,102,28,44,0.7
 107,581060,Buhari,Ibrahim,Ibrahim,,5,375,IF Elfsborg,IFE,2,DEF,u,Har lämnat klubben.,125,0,0,0,1,0,0,0,0,0,0,0,2,0,1,27,8,48,0.7
@@ -119,26 +119,26 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 118,193124,Julius,Magnusson,Magnusson,,5,375,IF Elfsborg,IFE,3,MID,a,,2057,3,4,8,23,0,0,0,3,0,0,3,17,2,15,249,100,53,18.8
 119,509233,Frederik,Ihler,Ihler,,5,375,IF Elfsborg,IFE,4,FWD,u,Utlånad till FC Volendam.,542,2,1,2,8,0,0,0,2,0,0,1,0,0,7,36,30,67,0.9
 120,467607,Taylor,Silverholt,Silverholt,,5,375,IF Elfsborg,IFE,4,FWD,a,,647,1,2,3,8,0,0,0,1,0,0,1,0,1,4,19,32,62,2.8
-121,662679,Leo,Östman,Östman,,5,375,IF Elfsborg,IFE,4,FWD,a,,1380,9,3,6,15,0,0,0,2,0,0,1,0,2,7,76,94,61,6.4
+121,662679,Leo,Östman,Östman,,5,375,IF Elfsborg,IFE,4,FWD,a,,1380,9,3,6,15,0,0,0,2,0,0,1,0,2,7,76,94,61,6.5
 122,548936,Dion,Krasniqi,Krasniqi,,5,375,IF Elfsborg,IFE,4,FWD,a,,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,3,52,0.2
-123,119081,Per,Frick,Frick,,5,375,IF Elfsborg,IFE,4,FWD,i,Skadad.,154,0,0,2,0,0,0,0,0,0,0,1,0,0,2,11,8,48,1.6
+123,119081,Per,Frick,Frick,,5,375,IF Elfsborg,IFE,4,FWD,a,,154,0,0,2,0,0,0,0,0,0,0,1,0,0,2,11,8,48,1.6
 124,111778,Andreas,Linde,Linde,,6,1959,BK Häcken,BKH,1,GK,a,,1035,0,0,3,16,0,0,0,1,0,45,0,0,0,0,100,49,50,0.5
 125,61824,Etrit,Berisha,Berisha,,6,1959,BK Häcken,BKH,1,GK,a,,630,0,0,6,3,0,0,0,1,0,26,0,0,0,0,79,52,48,1.0
 126,616926,David,Andersson,Andersson,,6,1959,BK Häcken,BKH,1,GK,a,,495,0,0,0,11,0,0,0,0,0,19,0,0,0,0,48,13,46,1.6
 127,170945,Adam,Lundkvist,Lundkvist,,6,1959,BK Häcken,BKH,2,DEF,a,,1688,0,3,8,24,0,0,0,4,0,0,6,7,0,18,179,81,54,2.1
 128,192336,Brice,Wembangomo,Wembangomo,,6,1959,BK Häcken,BKH,2,DEF,a,,1923,0,3,8,27,0,0,0,2,0,0,5,12,0,19,230,90,55,3.5
-129,105562,Filip,Helander,Helander,,6,1959,BK Häcken,BKH,2,DEF,a,,1967,1,1,10,27,0,0,0,4,0,0,2,19,0,5,266,101,52,5.7
+129,105562,Filip,Helander,Helander,,6,1959,BK Häcken,BKH,2,DEF,a,,1967,1,1,10,27,0,0,0,4,0,0,2,19,0,5,266,101,52,5.8
 130,94660,Johan,Hammar,Hammar,,25,417,Örgryte IS,ÖIS,2,DEF,a,,750,0,1,1,16,0,0,0,1,0,0,0,10,0,0,115,33,47,0.7
 131,226118,Leo,Väisänen,Väisänen,,6,1959,BK Häcken,BKH,2,DEF,a,,248,0,0,2,3,0,0,0,0,1,0,0,1,0,1,24,12,48,0.1
 132,649807,Filip,Öhman,Öhman,,6,1959,BK Häcken,BKH,2,DEF,i,Skadad.,81,0,0,0,3,0,0,0,0,0,0,0,1,0,0,11,2,43,0.3
 133,571644,Olle,Samuelsson,Samuelsson,,6,1959,BK Häcken,BKH,2,DEF,a,,695,0,1,2,10,0,0,0,1,0,0,2,3,0,6,93,31,42,0.4
 134,560290,Ben,Engdahl,Engdahl,,6,1959,BK Häcken,BKH,2,DEF,i,Skadad.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.1
-135,658069,Harry,Hilvenius,Hilvenius,,6,1959,BK Häcken,BKH,2,DEF,a,,1620,1,0,7,22,0,0,0,0,0,0,0,21,0,3,238,83,46,3.4
+135,658069,Harry,Hilvenius,Hilvenius,,6,1959,BK Häcken,BKH,2,DEF,a,,1620,1,0,7,22,0,0,0,0,0,0,0,21,0,3,238,83,46,3.5
 136,153822,Jacob,Barrett Laursen,Barrett Laursen,,6,1959,BK Häcken,BKH,2,DEF,u,Har avslutat karriären.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.2
 137,45097,Mikkel,Rygaard,Rygaard,,6,1959,BK Häcken,BKH,3,MID,a,,1587,2,6,7,23,0,0,0,5,0,0,18,5,0,49,126,94,84,1.9
 138,593205,Jeremy,Agbonifo,Agbonifo,,6,1959,BK Häcken,BKH,3,MID,u,Har lämnat klubben.,233,1,1,0,5,0,0,0,3,0,0,2,0,0,8,22,16,82,0.2
 139,431837,Amor,Layouni,Layouni,,6,1959,BK Häcken,BKH,3,MID,u,Har lämnat klubben.,700,1,6,2,9,0,0,0,2,0,0,5,0,0,16,30,45,79,2.3
-140,531725,Julius,Lindberg,Lindberg,,6,1959,BK Häcken,BKH,3,MID,a,,1774,9,8,10,20,0,0,0,3,0,0,15,1,4,41,118,138,87,13.9
+140,531725,Julius,Lindberg,Lindberg,,6,1959,BK Häcken,BKH,3,MID,a,,1774,9,8,10,20,0,0,0,3,0,0,15,1,4,41,118,138,87,14.0
 141,545891,Sanders,Ngabo,Ngabo,,6,1959,BK Häcken,BKH,3,MID,u,Utlånad till Lyngby BK.,233,0,0,0,8,0,0,0,0,0,0,4,0,0,10,18,16,63,0.1
 142,502513,David,Seger,Seger,,6,1959,BK Häcken,BKH,3,MID,a,,710,0,1,6,7,0,0,0,2,0,0,3,6,0,16,91,36,63,0.2
 143,531755,Danilo,Al-Saed,Al-Saed,,6,1959,BK Häcken,BKH,3,MID,u,Utlånad till HamKam.,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,56,0.1
@@ -148,8 +148,8 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 147,728671,Abdoulaye,Doumbia,Doumbia,,6,1959,BK Häcken,BKH,3,MID,a,,1888,2,3,9,25,0,0,0,7,0,0,7,31,0,20,334,102,57,4.1
 148,682584,Sabri,Kondo,Kondo,,6,1959,BK Häcken,BKH,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.0
 149,658070,Malte,Ljungkull,Ljungkull,,6,1959,BK Häcken,BKH,3,MID,n,Utlånad till Norrby IF.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.0
-150,692479,Adrian,Svanbäck,Svanbäck,,6,1959,BK Häcken,BKH,4,FWD,a,,1822,7,8,10,23,0,0,0,2,0,0,6,1,2,25,106,113,80,7.8
-151,570094,Gustav,Lindgren,Lindgren,,6,1959,BK Häcken,BKH,4,FWD,a,,1859,12,2,10,27,0,0,0,3,0,0,5,0,5,18,58,119,83,18.1
+150,692479,Adrian,Svanbäck,Svanbäck,,6,1959,BK Häcken,BKH,4,FWD,a,,1822,7,8,10,23,0,0,0,2,0,0,6,1,2,25,106,113,80,7.9
+151,570094,Gustav,Lindgren,Lindgren,,6,1959,BK Häcken,BKH,4,FWD,a,,1859,12,2,10,27,0,0,0,3,0,0,5,0,5,18,58,119,83,18.2
 152,659286,Christ,Wawa,Wawa,,6,1959,BK Häcken,BKH,4,FWD,a,,80,1,0,0,1,0,0,0,1,0,0,0,0,0,0,2,8,58,0.2
 153,182413,Jacob,Rinne,Rinne,,7,1406,Djurgården,DIF,1,GK,a,,2070,0,1,13,19,1,0,0,0,0,69,0,0,0,3,235,132,60,11.3
 154,210226,Filip,Manojlovic,Manojlovic,,7,1406,Djurgården,DIF,1,GK,u,Utlånad till IK Start.,90,0,0,0,2,0,0,0,0,0,2,0,0,0,0,7,2,52,1.2
@@ -157,8 +157,8 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 156,644622,Max,Larsson,Larsson,,7,1406,Djurgården,DIF,2,DEF,a,,1285,0,2,6,13,0,0,0,4,0,0,4,11,0,19,159,71,67,2.7
 157,443250,Adam,Ståhl,Ståhl,,7,1406,Djurgården,DIF,2,DEF,a,,1213,1,2,8,13,0,0,0,2,0,0,2,7,0,11,135,80,63,2.9
 158,501588,Leon,Hien,Hien,,7,1406,Djurgården,DIF,2,DEF,u,Utlånad till Tromsö IL.,127,0,0,0,2,0,0,0,1,0,0,0,1,0,0,20,5,52,2.7
-159,195882,Miro,Tenho,Tenho,,7,1406,Djurgården,DIF,2,DEF,s,Avstängd i omgång 24.,1976,2,0,12,18,0,0,0,6,0,0,0,16,0,3,236,107,61,13.3
-160,189744,Piotr,Johansson,Johansson,,7,1406,Djurgården,DIF,2,DEF,a,,1739,1,4,11,14,0,0,0,1,0,0,5,12,0,17,197,114,57,8.1
+159,195882,Miro,Tenho,Tenho,,7,1406,Djurgården,DIF,2,DEF,a,,1976,2,0,12,18,0,0,0,6,0,0,0,16,0,3,236,107,61,13.3
+160,189744,Piotr,Johansson,Johansson,,7,1406,Djurgården,DIF,2,DEF,a,,1739,1,4,11,14,0,0,0,1,0,0,5,12,0,17,197,114,57,8.2
 161,522166,Mikael,Marqués,Marqués,,7,1406,Djurgården,DIF,2,DEF,a,,746,1,1,2,14,0,0,0,2,1,0,2,7,1,5,109,37,54,0.4
 162,157818,Jacob,Une,Une,,7,1406,Djurgården,DIF,2,DEF,a,,1596,1,0,12,10,0,0,0,2,0,0,0,15,0,1,199,101,54,3.8
 163,244449,Mikael,Anderson,Anderson,,7,1406,Djurgården,DIF,3,MID,u,Har lämnat klubben.,199,2,1,0,5,0,0,0,0,0,0,1,0,0,5,20,19,84,0.5
@@ -175,7 +175,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 174,499336,Kristian,Lien,Lien,,7,1406,Djurgården,DIF,4,FWD,a,,1987,16,6,12,21,0,0,1,1,0,0,10,1,6,27,74,159,103,41.3
 175,445985,Santeri,Haarala,Haarala,,7,1406,Djurgården,DIF,4,FWD,u,Har lämnat klubben.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,0.6
 176,631178,Kalipha,Jawla,Jawla,,7,1406,Djurgården,DIF,4,FWD,u,Utlånad till Östers IF.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0.1
-177,428645,Samuel,Brolin,Brolin,,10,2594,Kalmar FF,KFF,1,GK,a,,1530,0,0,3,26,0,0,0,0,0,60,0,0,0,0,179,62,44,4.0
+177,428645,Samuel,Brolin,Brolin,,10,2594,Kalmar FF,KFF,1,GK,a,,1530,0,0,3,26,0,0,0,0,0,60,0,0,0,0,179,62,44,4.1
 178,565445,Jakob,Kindberg,Kindberg,,10,2594,Kalmar FF,KFF,1,GK,a,,630,0,0,0,12,0,0,0,0,0,23,0,0,0,0,75,18,45,0.8
 179,82769,Lars,Sætra,Sætra,,10,2594,Kalmar FF,KFF,2,DEF,a,,1494,0,0,1,27,0,0,0,3,0,0,0,7,0,4,167,37,46,1.1
 180,565491,Victor,Larsson,Larsson,,10,2594,Kalmar FF,KFF,2,DEF,a,,1844,0,0,3,31,0,0,0,2,0,0,6,8,0,21,192,60,43,1.4
@@ -186,7 +186,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 185,648958,Zakarias,Råvik,Råvik,,10,2594,Kalmar FF,KFF,2,DEF,a,,345,0,0,1,6,1,0,0,0,0,0,0,2,0,0,46,15,41,0.1
 186,438836,Achraf,Dari,Dari,,10,2594,Kalmar FF,KFF,2,DEF,u,Har lämnat klubben.,745,1,0,2,11,0,0,0,1,0,0,0,4,0,0,82,32,50,0.5
 187,560990,Marius,Söderbäck,Söderbäck,,10,2594,Kalmar FF,KFF,3,MID,a,,1356,1,3,1,25,0,0,0,1,0,0,7,4,0,22,135,62,60,0.4
-188,516874,Charles,Sagoe Jr,Sagoe Jr,,10,2594,Kalmar FF,KFF,3,MID,a,,2072,3,8,5,34,0,0,0,0,0,0,18,10,2,45,197,122,66,21.4
+188,516874,Charles,Sagoe Jr,Sagoe Jr,,10,2594,Kalmar FF,KFF,3,MID,a,,2072,3,8,5,34,0,0,0,0,0,0,18,10,2,45,197,122,66,21.3
 189,551213,Nassef,Chourak,Chourak,,10,2594,Kalmar FF,KFF,3,MID,a,,1099,0,0,3,18,0,0,0,2,0,0,4,3,0,14,106,37,56,0.2
 190,114595,Melker,Hallberg,Hallberg,,10,2594,Kalmar FF,KFF,3,MID,a,,1444,0,2,4,23,1,0,0,2,0,0,8,4,0,23,122,56,48,0.2
 191,487389,Carl,Gustafsson,Gustafsson,,10,2594,Kalmar FF,KFF,3,MID,a,,1205,2,1,2,22,0,0,0,2,0,0,3,17,1,11,194,62,47,0.5
@@ -228,18 +228,18 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 227,699275,Yannick,Geiger,Geiger,,12,195,AIK,AIK,3,MID,a,,786,1,0,1,16,0,0,0,2,0,0,1,3,1,6,93,32,43,0.5
 228,554831,Erik,Flataker,Flataker,,12,195,AIK,AIK,4,FWD,u,Har lämnat klubben.,401,0,1,0,5,0,0,0,0,0,0,2,1,0,6,25,16,66,1.2
 229,649817,Kevin,Filling,Filling,,12,195,AIK,AIK,4,FWD,i,Skadad. Missar resten av säsongen.,1011,2,5,3,19,0,0,0,2,0,0,4,0,0,11,50,53,62,2.1
-230,570080,Robin,Wallinder,Wallinder,,14,2360,Mjällby AIF,MAIF,1,GK,a,,1800,0,0,4,32,0,0,0,0,0,67,0,0,0,0,215,72,58,8.0
+230,570080,Robin,Wallinder,Wallinder,,14,2360,Mjällby AIF,MAIF,1,GK,a,,1800,0,0,4,32,0,0,0,0,0,67,0,0,0,0,215,72,58,7.9
 231,88286,Alexander,Lundin,Lundin,,14,2360,Mjällby AIF,MAIF,1,GK,a,,180,0,0,0,2,0,0,0,0,0,9,0,0,0,0,24,8,54,0.7
 232,515175,Amar,Dzevlan,Dzevlan,,14,2360,Mjällby AIF,MAIF,1,GK,u,Utlånad till Nordic United FC.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.6
 233,512351,Axel,Norén,Norén,,14,2360,Mjällby AIF,MAIF,2,DEF,a,,1652,0,1,4,30,0,0,0,2,1,0,0,21,0,9,249,62,62,12.4
 234,225046,Timo,Stavitski,Stavitski,,14,2360,Mjällby AIF,MAIF,2,DEF,i,Skadad.,112,0,0,0,3,0,0,0,0,0,0,0,0,0,2,13,3,58,1.5
 235,111810,Tom,Pettersson,Pettersson,,14,2360,Mjällby AIF,MAIF,2,DEF,a,,980,2,0,1,20,0,0,0,5,0,0,0,5,1,4,104,36,57,11.0
-236,622896,Abdullah,Iqbal,Iqbal,,14,2360,Mjällby AIF,MAIF,2,DEF,a,,1681,0,3,3,31,0,0,0,4,0,0,0,18,0,5,239,64,58,9.0
+236,622896,Abdullah,Iqbal,Iqbal,,14,2360,Mjällby AIF,MAIF,2,DEF,a,,1681,0,3,3,31,0,0,0,4,0,0,0,18,0,5,239,64,58,8.9
 237,623308,Max,Nielsen,Nielsen,,14,2360,Mjällby AIF,MAIF,2,DEF,a,,865,0,3,2,15,0,0,0,0,0,0,5,1,0,13,62,46,62,0.4
 238,652495,Christian,Tchouante,Tchouante,,14,2360,Mjällby AIF,MAIF,2,DEF,u,Utlånad till FK Železničar Pančevo.,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,54,0.0
 239,535553,Ludvig,Svanberg,Svanberg,,14,2360,Mjällby AIF,MAIF,2,DEF,a,,424,1,0,1,11,0,0,0,0,0,0,0,2,0,1,40,22,53,0.3
 240,467186,Tony,Miettinen,Miettinen,,14,2360,Mjällby AIF,MAIF,2,DEF,a,,1561,0,2,4,23,0,0,0,7,0,0,0,12,0,3,186,58,53,1.8
-241,587636,Ludvig,Tidstrand,Tidstrand,,14,2360,Mjällby AIF,MAIF,2,DEF,a,,554,0,0,1,9,0,0,0,3,0,0,1,4,0,4,70,25,53,0.2
+241,587636,Ludvig,Tidstrand,Tidstrand,,14,2360,Mjällby AIF,MAIF,2,DEF,s,Avstängd GW25.,554,0,0,1,9,0,0,0,3,0,0,1,4,0,4,70,25,53,0.2
 242,608227,Elliot,Stroud,Stroud,,14,2360,Mjällby AIF,MAIF,3,MID,u,Har lämnat klubben.,809,3,1,4,10,0,0,0,0,0,0,8,11,0,18,117,60,107,15.1
 243,465472,Jeppe,Kjær,Kjær,,14,2360,Mjällby AIF,MAIF,3,MID,a,,1130,3,1,2,25,0,0,0,5,0,0,8,0,0,22,84,54,76,1.4
 244,511610,Áki,Samuelsen,Samuelsen,,14,2360,Mjällby AIF,MAIF,3,MID,a,,977,2,4,1,16,0,0,0,3,0,0,6,1,0,22,75,51,74,0.8
@@ -259,12 +259,12 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 258,198254,Joel,Nilsson,J. Nilsson,,15,466,Halmstads BK,HBK,2,DEF,a,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,53,0.1
 259,132016,Pascal,Gregor,Gregor,,15,466,Halmstads BK,HBK,2,DEF,a,,2070,0,0,2,43,1,0,0,1,0,0,0,18,0,4,261,54,47,0.5
 260,608929,Gustav,Friberg,Friberg,,15,466,Halmstads BK,HBK,2,DEF,u,Har lämnat klubben.,198,0,0,0,7,0,0,0,1,0,0,0,0,0,1,18,2,43,0.1
-261,241638,Filip,Schyberg,Schyberg,,15,466,Halmstads BK,HBK,2,DEF,a,,73,0,0,0,3,0,0,0,1,0,0,0,1,0,0,13,4,41,2.4
+261,241638,Filip,Schyberg,Schyberg,,15,466,Halmstads BK,HBK,2,DEF,a,,73,0,0,0,3,0,0,0,1,0,0,0,1,0,0,13,4,41,2.3
 262,506216,André,Boman,Boman,,15,466,Halmstads BK,HBK,2,DEF,a,,2013,0,1,2,42,0,0,0,1,1,0,7,17,0,25,234,61,44,0.9
 263,532049,Erko,Tõugjas,Tõugjas,,15,466,Halmstads BK,HBK,2,DEF,a,,1383,0,0,1,31,0,0,0,2,0,0,1,10,0,4,169,36,42,0.2
 264,608216,Gabriel,Wallentin,Wallentin,,15,466,Halmstads BK,HBK,2,DEF,a,,1277,0,0,1,24,0,0,0,2,0,0,1,12,0,5,175,36,39,11.8
 265,728601,Hjalmar,Åberg,Åberg,,15,466,Halmstads BK,HBK,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.7
-266,530685,Otso,Liimatta,Liimatta,,3,3056,IK Sirius,IKS,3,MID,i,Skadad.,503,4,0,0,10,0,0,0,2,0,0,1,1,0,8,57,36,58,0.7
+266,530685,Otso,Liimatta,Liimatta,,3,3056,IK Sirius,IKS,3,MID,a,,503,4,0,0,10,0,0,0,2,0,0,1,1,0,8,57,36,58,0.7
 267,570830,Hussein,Carneil,Carneil,,15,466,Halmstads BK,HBK,3,MID,a,,1583,2,2,3,33,0,0,0,2,0,0,7,4,0,22,143,69,54,0.2
 268,696893,Oliver,Kapsimalis,Kapsimalis,,15,466,Halmstads BK,HBK,3,MID,a,,736,0,0,0,16,0,0,0,1,0,0,1,3,0,8,86,27,53,0.1
 269,690381,Marvin,Illary,Illary,,15,466,Halmstads BK,HBK,3,MID,a,,915,0,3,2,18,0,0,0,0,0,0,5,3,0,16,96,48,51,0.1
@@ -336,7 +336,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 335,565487,Hampus,Gustafsson,Gustafsson,,25,417,Örgryte IS,ÖIS,1,GK,a,,2160,0,0,3,54,1,0,0,0,0,91,0,0,0,2,221,69,45,3.3
 336,624620,Michael,Parker,Parker,,25,417,Örgryte IS,ÖIS,2,DEF,a,,1349,0,1,2,34,0,0,0,2,0,0,1,7,0,12,158,40,47,0.6
 337,531784,Christoffer,Styffe,Styffe,,25,417,Örgryte IS,ÖIS,2,DEF,a,,1756,2,1,3,45,0,0,0,2,0,1,0,21,0,9,271,70,44,2.6
-338,61812,Mikael,Dyrestam,Dyrestam,,25,417,Örgryte IS,ÖIS,2,DEF,a,,1906,0,2,3,45,0,0,0,2,0,0,1,27,0,5,305,69,44,3.9
+338,61812,Mikael,Dyrestam,Dyrestam,,25,417,Örgryte IS,ÖIS,2,DEF,a,,1906,0,2,3,45,0,0,0,2,0,0,1,27,0,5,305,69,44,3.8
 339,164593,Anton,Andreasson,Andreasson,,25,417,Örgryte IS,ÖIS,2,DEF,a,,1168,3,0,1,34,0,0,0,0,0,0,1,0,1,8,105,46,42,4.0
 340,570081,William,Svensson,Svensson,,25,417,Örgryte IS,ÖIS,2,DEF,i,Skadad.,333,0,0,1,5,0,0,0,0,0,0,0,1,0,1,43,17,44,0.1
 341,570078,Hampus,Dahlqvist,Dahlqvist,,25,417,Örgryte IS,ÖIS,2,DEF,a,,130,0,0,0,8,0,0,0,0,0,0,0,0,0,0,15,4,43,0.1
@@ -357,19 +357,19 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 356,731191,Jerome,Tibbling Ugwo,Tibbling Ugwo,,25,417,Örgryte IS,ÖIS,4,FWD,i,Skadad.,651,3,1,1,20,0,0,0,4,0,0,1,0,0,4,30,37,47,0.9
 357,687920,Liam,Andersson,Andersson,,25,417,Örgryte IS,ÖIS,4,FWD,a,,92,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,9,44,0.2
 358,230566,Anton,Fagerström,Fagerström,,29,6211,Västerås SK,VSK,1,GK,a,,90,0,0,1,0,0,0,0,0,0,3,0,0,0,0,8,8,43,0.6
-359,695365,Elis,Jäger,Jäger,,29,6211,Västerås SK,VSK,1,GK,s,Avstängd i omgång 24.,2070,0,0,7,36,0,1,0,1,1,75,0,0,0,0,165,93,48,8.5
+359,695365,Elis,Jäger,Jäger,,29,6211,Västerås SK,VSK,1,GK,a,,2070,0,0,7,36,0,1,0,1,1,75,0,0,0,0,165,93,48,8.5
 360,570545,André,Bernardini,Bernardini,,29,6211,Västerås SK,VSK,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,3.4
-361,501560,Simon,Gefvert,Gefvert,,29,6211,Västerås SK,VSK,2,DEF,a,,2154,1,4,8,36,0,0,0,1,0,0,6,11,0,23,229,102,52,8.4
+361,501560,Simon,Gefvert,Gefvert,,29,6211,Västerås SK,VSK,2,DEF,a,,2154,1,4,8,36,0,0,0,1,0,0,6,11,0,23,229,102,52,8.5
 362,189743,Victor,Wernersson,Wernersson,,29,6211,Västerås SK,VSK,2,DEF,a,,939,0,0,1,17,0,0,0,3,0,0,0,4,0,3,123,27,44,0.3
 363,692744,Philip,Bonde,Bonde,,29,6211,Västerås SK,VSK,2,DEF,a,,1814,2,1,7,29,0,0,0,1,0,0,1,13,1,8,220,91,46,2.4
 364,441668,Frédéric,Nsabiyumva,Nsabiyumva,,29,6211,Västerås SK,VSK,2,DEF,a,,709,1,0,1,14,0,0,0,1,0,0,0,11,0,0,135,34,43,1.8
 365,610401,Marcus,Baggesen,Baggesen,,29,6211,Västerås SK,VSK,2,DEF,a,,957,1,5,4,21,0,0,0,1,0,0,7,4,0,17,106,67,46,6.9
-366,644620,Herman,Magnusson,H. Magnusson,,29,6211,Västerås SK,VSK,2,DEF,a,,2046,1,0,8,35,0,0,0,2,0,0,0,31,0,7,341,101,45,31.0
+366,644620,Herman,Magnusson,H. Magnusson,,29,6211,Västerås SK,VSK,2,DEF,a,,2046,1,0,8,35,0,0,0,2,0,0,0,31,0,7,341,101,45,31.1
 367,673065,Jack,Tagesson,Tagesson,,29,6211,Västerås SK,VSK,2,DEF,a,,533,0,0,2,4,0,0,0,0,0,0,0,3,0,1,68,29,39,1.2
 368,731635,Melvin,Ljungqvist,Ljungqvist,,29,6211,Västerås SK,VSK,2,DEF,a,,103,0,0,0,2,0,0,0,0,0,0,0,0,0,0,9,10,40,0.4
 369,624708,Liiban,Abadid,Abadid,,29,6211,Västerås SK,VSK,2,DEF,n,Utlånad till Nordic United FC t.o.m. 31 juli.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.1
 370,665588,Leonardo,Bark,Bark,,29,6211,Västerås SK,VSK,2,DEF,a,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,39,0.8
-371,693500,Axel,Taonsa,Taonsa,,29,6211,Västerås SK,VSK,3,MID,a,,1635,9,0,8,25,0,0,0,3,0,0,6,8,4,23,146,107,59,7.0
+371,693500,Axel,Taonsa,Taonsa,,29,6211,Västerås SK,VSK,3,MID,a,,1635,9,0,8,25,0,0,0,3,0,0,6,8,4,23,146,107,59,7.2
 372,157795,Jonathan,Ring,Ring,,29,6211,Västerås SK,VSK,3,MID,a,,455,0,1,2,9,0,0,0,0,1,0,3,2,0,9,54,21,52,0.3
 373,660509,Karl,Gunnarsson,Gunnarsson,,29,6211,Västerås SK,VSK,3,MID,a,,1366,2,3,6,23,0,0,0,3,0,0,6,2,0,18,106,68,49,0.4
 374,479613,Ismet,Lushaku,Lushaku,,29,6211,Västerås SK,VSK,3,MID,i,Skadad.,897,1,4,4,17,0,0,0,1,0,0,5,7,0,13,112,57,49,0.5
@@ -429,7 +429,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 428,641049,Bamir,Sadiku,Sadiku,,6,1959,BK Häcken,BKH,4,FWD,a,,27,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,59,0.0
 429,638770,Rasmus,Nåfors Dahlin,Nåfors Dahlin,,4,244,IFK Göteborg,GBG,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 430,654580,Elliot,Eld,Eld,,3,3056,IK Sirius,IKS,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
-431,614385,Jesper,Uneken,Uneken,,3,3056,IK Sirius,IKS,4,FWD,d,Missade omgång 23 p.g.a. skada.,280,1,0,2,1,0,0,0,1,0,0,1,0,1,2,10,14,79,1.0
+431,614385,Jesper,Uneken,Uneken,,3,3056,IK Sirius,IKS,4,FWD,i,Skadad.,280,1,0,2,1,0,0,0,1,0,0,1,0,1,2,10,14,79,1.0
 432,538709,Diego,García,Diego García,Diego García,1,993,Malmö FF,MFF,4,FWD,d,På väg tillbaka.,341,3,0,2,3,0,0,0,1,0,0,0,0,2,2,14,28,74,1.1
 433,742627,Angelo,Agbejoye,Agbejoye,,7,1406,Djurgården,DIF,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0.0
 434,111761,Marcus,Rohdén,Rohdén,,5,375,IF Elfsborg,IFE,3,MID,i,Skadad.,57,0,0,0,3,0,0,0,0,0,0,0,0,0,1,4,2,53,0.0
@@ -445,7 +445,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 444,695892,Bidemi,Amole,Amole,,21,2352,BP,BP,3,MID,a,,89,0,0,0,3,0,0,0,0,0,0,0,0,0,2,9,5,50,0.0
 445,536488,Theo,Sander,Sander,,5,375,IF Elfsborg,IFE,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 446,445893,Marius,Lode,Lode,,6,1959,BK Häcken,BKH,2,DEF,u,Har lämnat klubben.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
-447,624082,Madiou,Keïta,Keïta,,29,6211,Västerås SK,VSK,2,DEF,a,,396,0,0,4,9,0,0,0,1,0,0,0,4,0,2,59,27,45,0.2
+447,624082,Madiou,Keïta,Keïta,,29,6211,Västerås SK,VSK,2,DEF,a,,396,0,0,4,9,0,0,0,1,0,0,0,4,0,2,59,27,45,0.1
 448,612742,Mohamed,Derbali,Derbali,Mohamed Derbali,21,2352,BP,BP,3,MID,a,,292,0,0,1,7,0,0,0,1,0,0,0,1,0,0,36,10,45,0.0
 449,466321,Alexander,Jensen,Jensen,,5,375,IF Elfsborg,IFE,2,DEF,a,,925,0,3,5,10,0,0,0,1,0,0,5,4,0,14,93,55,61,2.3
 450,742914,Fabian,Björklund,Björklund,,10,2594,Kalmar FF,KFF,2,DEF,a,,152,0,0,0,4,0,0,0,0,0,0,0,1,0,0,22,4,45,0.0
@@ -456,7 +456,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 455,509203,Martin,Agnarsson,Agnarsson,,14,2360,Mjällby AIF,MAIF,2,DEF,a,,187,0,0,0,4,0,0,0,1,0,0,1,0,0,3,13,4,58,0.0
 456,570286,Robin,Dzabic,Dzabic,,16,2961,Degerfors IF,DEG,3,MID,a,,672,0,1,1,11,0,0,0,3,0,0,4,1,0,13,65,25,53,0.0
 457,717233,Oliver,Månsson,Månsson,,4,244,IFK Göteborg,GBG,3,MID,a,,926,0,3,5,10,0,0,0,2,0,0,5,6,0,14,107,45,45,0.7
-458,179618,Hervé,Matthys,Matthys,,12,195,AIK,AIK,2,DEF,a,,921,0,0,2,21,0,0,0,1,0,0,0,11,0,1,138,32,53,2.4
+458,179618,Hervé,Matthys,Matthys,,12,195,AIK,AIK,2,DEF,a,,921,0,0,2,21,0,0,0,1,0,0,0,11,0,1,138,32,53,2.3
 459,106325,Hjörtur,Hermannsson,Hermannsson,,4,244,IFK Göteborg,GBG,2,DEF,a,,743,1,0,3,10,0,0,0,3,0,0,0,3,1,2,79,33,50,0.3
 460,114226,Sam,Larsson,Larsson,,4,244,IFK Göteborg,GBG,4,FWD,a,,923,7,2,4,12,0,0,1,1,0,0,7,1,1,24,72,69,89,9.1
 461,667169,Nikolai,Skuseth,Skuseth,,16,2961,Degerfors IF,DEG,2,DEF,a,,1080,0,1,2,18,0,0,0,0,0,0,0,12,0,2,140,40,45,0.1
@@ -468,7 +468,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 467,743241,Isaac,Assibu,Assibu,,1,993,Malmö FF,MFF,3,MID,a,,150,0,0,0,3,0,0,0,0,0,0,0,0,0,2,16,7,54,0.0
 468,612922,August,Ljungberg,Ljungberg,,3,3056,IK Sirius,IKS,3,MID,a,,154,1,1,0,7,0,0,0,0,0,0,0,0,0,2,8,14,54,0.0
 469,588767,Amin,Boudri,Boudri,,2,1987,Hammarby,HAM,3,MID,i,Skadad. Missar resten av säsongen.,372,0,2,3,3,0,0,0,1,0,0,3,2,0,10,35,24,92,0.3
-470,584350,Linus,Carlstrand,Carlstrand,,12,195,AIK,AIK,4,FWD,a,,695,5,1,1,14,0,0,0,1,0,0,4,0,1,12,26,48,72,13.9
+470,584350,Linus,Carlstrand,Carlstrand,,12,195,AIK,AIK,4,FWD,a,,695,5,1,1,14,0,0,0,1,0,0,4,0,1,12,26,48,72,13.7
 471,245772,Lukas,Jonsson,Jonsson,,7,1406,Djurgården,DIF,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0.0
 472,229458,Diogo,Tomas,Tomas,,12,195,AIK,AIK,2,DEF,a,,138,1,0,0,3,0,0,0,0,0,0,0,0,0,1,15,9,52,0.0
 473,748212,Karim,Boutera,Boutera,,16,2961,Degerfors IF,DEG,4,FWD,a,,313,0,0,1,5,0,0,0,3,0,0,0,0,0,2,19,8,55,0.0
@@ -483,11 +483,11 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 482,90440,Tom,Trybull,Trybull,,15,466,Halmstads BK,HBK,3,MID,a,,441,0,0,1,9,0,0,0,4,0,0,0,6,0,0,76,13,44,0.0
 483,204903,Christos,Gravius,Gravius,,30,670,GAIS,GAIS,3,MID,a,,114,0,0,0,3,0,0,0,1,0,0,0,0,0,1,9,3,45,0.0
 484,446859,Ajdin,Zeljkovic,Zeljkovic,,15,466,Halmstads BK,HBK,4,FWD,a,,336,0,0,2,5,0,0,0,0,0,0,0,0,0,2,20,10,48,0.0
-485,166372,Stian,Gregersen,Gregersen,,1,993,Malmö FF,MFF,2,DEF,d,Missade omgång 23 p.g.a. skada.,388,0,0,2,4,0,0,0,1,0,0,0,2,0,1,47,18,59,1.6
+485,166372,Stian,Gregersen,Gregersen,,1,993,Malmö FF,MFF,2,DEF,a,,388,0,0,2,4,0,0,0,1,0,0,0,2,0,1,47,18,59,1.6
 486,560727,Peter,Amoran,Amoran,,29,6211,Västerås SK,VSK,2,DEF,a,,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,45,0.0
 487,537486,Zalán,Vancsa,Vancsa,,3,3056,IK Sirius,IKS,3,MID,a,,293,0,3,2,0,0,0,0,0,0,0,1,0,0,6,15,19,75,0.1
 488,721999,Casper,Risbjerg,Risbjerg,,29,6211,Västerås SK,VSK,4,FWD,a,,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,49,0.0
-489,570939,Alexander,Simmelhack,Simmelhack,,4,244,IFK Göteborg,GBG,4,FWD,a,,424,3,1,3,3,0,0,0,0,0,0,1,0,2,5,19,31,66,1.5
+489,570939,Alexander,Simmelhack,Simmelhack,,4,244,IFK Göteborg,GBG,4,FWD,a,,424,3,1,3,3,0,0,0,0,0,0,1,0,2,5,19,31,66,1.6
 490,473882,Jesper,Löfgren,Löfgren,,10,2594,Kalmar FF,KFF,2,DEF,a,,450,0,0,0,9,0,0,0,0,0,0,0,4,0,3,53,12,45,0.0
 491,715037,Ladji,Camara,Camara,,12,195,AIK,AIK,2,DEF,a,,49,0,1,0,1,0,0,0,1,0,0,0,0,0,1,5,3,39,0.1
 492,649822,Oskar,Pukelis,Pukelis,,12,195,AIK,AIK,2,DEF,a,,26,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,40,0.0
@@ -501,10 +501,10 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 500,586774,Tobias,Lauritsen,Lauritsen,,10,2594,Kalmar FF,KFF,3,MID,a,,212,0,0,0,6,0,0,0,0,0,0,1,0,0,3,21,7,50,0.0
 501,530688,Miska,Ylitolva,Ylitolva,,10,2594,Kalmar FF,KFF,2,DEF,a,,447,0,0,0,9,0,0,0,2,0,0,1,5,0,4,59,12,45,0.1
 502,249137,Sebastian,Hausner,Hausner,,12,195,AIK,AIK,2,DEF,a,,171,0,0,0,7,0,0,0,0,0,0,0,1,0,0,26,4,48,0.0
-503,570287,Viktor,Ekblom,Ekblom,,25,417,Örgryte IS,ÖIS,4,FWD,i,Skadad.,91,2,0,0,0,0,0,0,0,0,0,0,0,1,0,5,14,49,0.0
+503,570287,Viktor,Ekblom,Ekblom,,25,417,Örgryte IS,ÖIS,4,FWD,a,,91,2,0,0,0,0,0,0,0,0,0,0,0,1,0,5,14,49,0.0
 504,731891,Adam,Wihed,Wihed,,15,466,Halmstads BK,HBK,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.2
 505,658064,Åke,Andersson,Andersson,,3,3056,IK Sirius,IKS,4,FWD,a,,180,0,0,1,1,0,0,0,0,0,0,0,0,0,0,10,5,55,0.0
-506,549428,Kasper,Paananen,Paananen,,10,2594,Kalmar FF,KFF,4,FWD,d,Skadekänning.,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,59,0.0
+506,549428,Kasper,Paananen,Paananen,,10,2594,Kalmar FF,KFF,4,FWD,a,,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,59,0.0
 507,495190,Lucas,Assadi,Assadi,,12,195,AIK,AIK,3,MID,a,,437,0,2,0,15,0,0,0,0,0,0,3,0,0,9,17,20,69,0.8
 508,472840,Abdul,Abdulmalik,Abdulmalik,,7,1406,Djurgården,DIF,3,MID,a,,30,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,1,69,0.1
 509,663366,Viggo,Elfstrom,Elfström,,5,375,IF Elfsborg,IFE,2,DEF,a,,6,0,0,0,1,1,0,0,0,0,0,0,0,0,0,3,1,45,0.0
