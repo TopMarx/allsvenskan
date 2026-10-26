@@ -23,7 +23,7 @@ id,name,deadline_time,average_entry_score,highest_score,finished,data_checked,is
 22,Round 22,2026-09-19T12:55:00Z,46,109,True,True,False,False,False
 23,Round 23,2026-10-09T16:55:00Z,53,141,True,True,False,False,False
 24,Round 24,2026-10-16T16:55:00Z,39,106,True,True,True,False,False
-25,Round 25,2026-10-23T16:55:00Z,30,97,False,False,False,True,False
+25,Round 25,2026-10-23T16:55:00Z,43,108,False,False,False,True,False
 26,Round 26,2026-10-27T17:55:00Z,0,,False,False,False,False,True
 27,Round 27,2026-11-01T12:55:00Z,0,,False,False,False,False,False
 28,Round 28,2026-11-06T17:55:00Z,0,,False,False,False,False,False
