@@ -1,12 +1,12 @@
 {
-  "last_closed_gw": 24,
+  "last_closed_gw": 25,
   "season": 2026,
   "current_gw": 25,
-  "fetch_type": "waiting",
+  "fetch_type": "gw_closure",
   "expected_count": 515,
   "fetched_count": 515,
   "failed_ids": [],
   "completed": true,
-  "last_run": "2026-10-27T02:30:39.753031+00:00",
-  "reason": "GW25 finished but data_checked is False"
+  "last_run": "2026-10-27T10:46:25.688004+00:00",
+  "event_status": "event-status unavailable"
 }
